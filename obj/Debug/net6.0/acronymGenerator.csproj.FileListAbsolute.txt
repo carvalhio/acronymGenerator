@@ -1,0 +1,15 @@
+C:\Users\raf_c\source\repos\acronymGenerator\acronymGenerator\bin\Debug\net6.0\acronymGenerator.exe
+C:\Users\raf_c\source\repos\acronymGenerator\acronymGenerator\bin\Debug\net6.0\acronymGenerator.deps.json
+C:\Users\raf_c\source\repos\acronymGenerator\acronymGenerator\bin\Debug\net6.0\acronymGenerator.runtimeconfig.json
+C:\Users\raf_c\source\repos\acronymGenerator\acronymGenerator\bin\Debug\net6.0\acronymGenerator.dll
+C:\Users\raf_c\source\repos\acronymGenerator\acronymGenerator\bin\Debug\net6.0\acronymGenerator.pdb
+C:\Users\raf_c\source\repos\acronymGenerator\acronymGenerator\obj\Debug\net6.0\acronymGenerator.csproj.AssemblyReference.cache
+C:\Users\raf_c\source\repos\acronymGenerator\acronymGenerator\obj\Debug\net6.0\acronymGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raf_c\source\repos\acronymGenerator\acronymGenerator\obj\Debug\net6.0\acronymGenerator.AssemblyInfoInputs.cache
+C:\Users\raf_c\source\repos\acronymGenerator\acronymGenerator\obj\Debug\net6.0\acronymGenerator.AssemblyInfo.cs
+C:\Users\raf_c\source\repos\acronymGenerator\acronymGenerator\obj\Debug\net6.0\acronymGenerator.csproj.CoreCompileInputs.cache
+C:\Users\raf_c\source\repos\acronymGenerator\acronymGenerator\obj\Debug\net6.0\acronymGenerator.dll
+C:\Users\raf_c\source\repos\acronymGenerator\acronymGenerator\obj\Debug\net6.0\refint\acronymGenerator.dll
+C:\Users\raf_c\source\repos\acronymGenerator\acronymGenerator\obj\Debug\net6.0\acronymGenerator.pdb
+C:\Users\raf_c\source\repos\acronymGenerator\acronymGenerator\obj\Debug\net6.0\acronymGenerator.genruntimeconfig.cache
+C:\Users\raf_c\source\repos\acronymGenerator\acronymGenerator\obj\Debug\net6.0\ref\acronymGenerator.dll

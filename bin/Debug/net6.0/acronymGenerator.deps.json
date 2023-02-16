@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "acronymGenerator/1.0.0": {
+        "runtime": {
+          "acronymGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "acronymGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
